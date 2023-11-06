@@ -1,6 +1,6 @@
 # Welcome to MrDemonWolf, Inc.'s GitHub Organization
 
-![Company Logo](/logo.png)
+![Company Logo](/logo_text.png)
 
 ## About Us
 
