@@ -42,4 +42,10 @@ We welcome contributions from the community to help improve our projects. Please
 
 Stay updated on our latest projects and activities by following our GitHub organization and other social media channels:
 
-- [GitHub](https
+- [GitHub](https://github.com/MrDemonWolf)
+- [Twitter](https://twitter.com/mrdemonwolf)
+- [LinkedIn](https://www.linkedin.com/company/mrdemonwolf)
+
+Thank you for visiting MrDemonWolf, Inc.'s GitHub organization. We look forward to your contributions and collaboration!
+
+[![GitHub Stars](https://img.shields.io/github/stars/MrDemonWolf?style=social)](https://github.com/MrDemonWolf)
