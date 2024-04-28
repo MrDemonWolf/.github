@@ -5,7 +5,9 @@
 ## About Us
 
 I take great pride in crafting dynamic web applications and alluring WordPress websites. With years of experience under my belt I have honed my skills in web engineering, design and maintenance. These skills I now offer to those seeking to craft new and innovative opportunities in website and software development, my diverse experience in many exciting projects will ensure that I can bring any idea to life.
+
 I began my career as a novice and only through persistence and passion was I able to find where to begin my journey. I started with basic sites and gradually climbed to the more complex areas of web design and development. During my journey I established valuable connections and helped others realize their goals, a feat I am very proud of and rightfully so, hard work and dedication paid off. Although freelancing posed its challenges I built myself up by taking on free projects for friends which taught me valuable skills in managing the business side of things.
+
 In order to maintain a healthy work-life balance I enjoy kicking back and playing games with friends and even some live streaming, when I am not doing that I use my spare time to continue learning or even experimenting with building websites and web applications. Join me for some fun and engaging content that blends both business and pleasure.
 
 
