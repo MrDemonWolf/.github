@@ -25,14 +25,6 @@ FluffBoost is a heartwarming Discord bot that delivers daily doses of motivation
 - Description: FluffBoost is a Discord bot that delivers daily motivation and inspiration with furry mascots and uplifting quotes.
 - Technologies: List the key technologies or languages used.
 
-### Furshare
-
-Furshare is a simple yet advanced uploader that allows users to upload files, images, and text with moderation tools for admins. It can be used for friends and family or just for you. Furshare is built with integration, similar to ShareX, but more uploaders will be officially supported.
-
-- Repository: [Furshare Repository](https://github.com/MrDemonWolf/Furshare)
-- Description: Furshare is an advanced uploader with moderation tools for admins, suitable for various use cases.
-- Technologies: List the key technologies or languages used.
-
 ## Contributing
 
 We welcome contributions from the community to help improve our projects. Please review our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to contribute.
