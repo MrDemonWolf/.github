@@ -7,12 +7,11 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 ## Key Repositories
 
 <!-- PINNED-REPOS:START -->
-| Repository | Description | Language | Stars |
-|---|---|---|---|
-| [fluffboost](https://github.com/MrDemonWolf/fluffboost) | Get daily uplifting quotes and heartwarming messages from my friendly community  | TypeScript | 4 |
-| [official-app](https://github.com/MrDemonWolf/official-app) | The official MrDemonWolf mobile app — a portfolio and blog reader built with R | TypeScript | 2 |
-| [wolfwave](https://github.com/MrDemonWolf/wolfwave) | A native macOS menu bar app that bridges Apple Music with Twitch, Discord, and s | Swift | 1 |
-| [dirework](https://github.com/MrDemonWolf/dirework) | Self-hosted Pomodoro timer and task list for Twitch co-working streams. Customiz | TypeScript | 1 |
+<table>
+<tr>
+<td colspan="2" align="center"><em>Run the workflow to populate this section.</em></td>
+</tr>
+</table>
 <!-- PINNED-REPOS:END -->
 
 ## Get in Touch
