@@ -9,7 +9,9 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <!-- PINNED-REPOS:START -->
 | Repository | Description | Language | Stars |
 |---|---|---|---|
-| *Run the workflow to populate this table.* | | | |
+| [fluffboost](https://github.com/MrDemonWolf/fluffboost) | Get daily uplifting quotes and heartwarming messages from my friendly community  | TypeScript | 4 |
+| [coming-soon](https://github.com/MrDemonWolf/coming-soon) | Just a simple basic HTML coming soon. | HTML | 0 |
+| [community-bot](https://github.com/MrDemonWolf/community-bot) | Discord & Twitch bot for MrDemonWolf, Inc. Community front-end UI | TypeScript | 0 |
 <!-- PINNED-REPOS:END -->
 
 ## Get in Touch
