@@ -24,6 +24,6 @@ This is the **GitHub Organization `.github` repository** for [MrDemonWolf, Inc.]
 The "Key Repositories" section in `profile/README.md` is automatically updated by a GitHub Actions workflow:
 
 - **Marker comments**: The auto-updated content lives between `<!-- PINNED-REPOS:START -->` and `<!-- PINNED-REPOS:END -->` markers. Do not remove these markers.
-- **Script**: `scripts/update-pinned-repos.sh` queries the GitHub GraphQL API for the org's top 4 pinned repositories and builds a markdown table with name (linked), description, language, and star count.
+- **Script**: `scripts/update-pinned-repos.sh` queries the GitHub GraphQL API for the org's top 6 pinned repositories and builds an HTML table (2 per row) with name (linked), description, language, and star count.
 - **Workflow**: `.github/workflows/update-readme.yml` runs daily at 06:00 UTC and on manual dispatch. It only commits if the README content actually changed.
 - **Token**: The workflow uses the default `GITHUB_TOKEN` provided by GitHub Actions.
