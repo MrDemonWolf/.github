@@ -9,7 +9,40 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <!-- PINNED-REPOS:START -->
 <table>
 <tr>
-<td colspan="2" align="center"><em>Run the workflow to populate this section.</em></td>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/fluffboost">fluffboost</a></h3>
+<p>Get daily uplifting quotes and heartwarming messages from my friendly community </p>
+<p><code>TypeScript</code> ⭐ 4</p>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/official-app">official-app</a></h3>
+<p>The official MrDemonWolf mobile app — a portfolio and blog reader built with R</p>
+<p><code>TypeScript</code> ⭐ 2</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/wolfwave">wolfwave</a></h3>
+<p>A native macOS menu bar app that bridges Apple Music with Twitch, Discord, and s</p>
+<p><code>Swift</code> ⭐ 1</p>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/dirework">dirework</a></h3>
+<p>Self-hosted Pomodoro timer and task list for Twitch co-working streams. Customiz</p>
+<p><code>TypeScript</code> ⭐ 1</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/protoburn">protoburn</a></h3>
+<p>Claude API cost & usage dashboard — track monthly spending, top models leaderb</p>
+<p><code>TypeScript</code> ⭐ 0</p>
+</td>
+<td width="50%">
+<h3><a href="https://github.com/MrDemonWolf/conpaws">conpaws</a></h3>
+<p>Your convention compass. ConPaws is a one-stop navigator for furry event attende</p>
+<p><code>TypeScript</code> ⭐ 0</p>
+</td>
 </tr>
 </table>
 <!-- PINNED-REPOS:END -->
