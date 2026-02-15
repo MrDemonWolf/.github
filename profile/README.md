@@ -17,7 +17,7 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/official-app">official-app</a></h3>
 <p>The official MrDemonWolf mobile app — a portfolio and blog reader built with R</p>
-<p><code>TypeScript</code> ⭐ 2</p>
+<p><code>Go</code> ⭐ 2</p>
 </td>
 </tr>
 <tr>
