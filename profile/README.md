@@ -35,7 +35,7 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/protoburn">protoburn</a></h3>
-<p>Claude API cost & usage dashboard — track monthly spending, top models leaderb</p>
+<p>Claude API token usage dashboard with prompt caching analytics, burn intensity e</p>
 <p><code>TypeScript</code> ⭐ 0</p>
 </td>
 <td width="50%">
