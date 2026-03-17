@@ -29,7 +29,7 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/dirework">dirework</a></h3>
 <p>Self-hosted Pomodoro timer and task list for Twitch co-working streams. Customiz</p>
-<p><code>TypeScript</code> ⭐ 1</p>
+<p><code>TypeScript</code> ⭐ 2</p>
 </td>
 </tr>
 <tr>
