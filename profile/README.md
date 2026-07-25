@@ -24,7 +24,7 @@ I've been building for the web for over 11 years — from dynamic web applicatio
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/wolfwave">wolfwave</a></h3>
 <p>A native macOS menu bar app that bridges Apple Music with Twitch, Discord, and s</p>
-<p><code>Swift</code> ⭐ 5</p>
+<p><code>Swift</code> ⭐ 6</p>
 </td>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/dirework">dirework</a></h3>
