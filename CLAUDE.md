@@ -10,7 +10,7 @@ This is the **GitHub Organization `.github` repository** for [MrDemonWolf, Inc.]
 
 - `profile/README.md` — Organization profile README displayed at https://github.com/MrDemonWolf
 - `logo_text.png` — Organization logo (647x100px) referenced in the profile README
-- `scripts/update-pinned-repos.sh` — Shell script that queries GitHub GraphQL API for pinned repos and updates the README
+- `scripts/update-pinned-repos.sh` — Shell script that queries GitHub GraphQL API for a curated list of repos and updates the README
 - `.github/workflows/update-readme.yml` — GitHub Actions workflow that runs the script daily at 06:00 UTC
 
 ## Key Details
@@ -24,6 +24,7 @@ This is the **GitHub Organization `.github` repository** for [MrDemonWolf, Inc.]
 The "Key Repositories" section in `profile/README.md` is automatically updated by a GitHub Actions workflow:
 
 - **Marker comments**: The auto-updated content lives between `<!-- PINNED-REPOS:START -->` and `<!-- PINNED-REPOS:END -->` markers. Do not remove these markers.
-- **Script**: `scripts/update-pinned-repos.sh` queries the GitHub GraphQL API for the org's top 6 pinned repositories and builds an HTML table (2 per row) with name (linked), description, language, and star count.
+- **Script**: `scripts/update-pinned-repos.sh` fetches a curated list of repositories from the GitHub GraphQL API and builds an HTML table (2 per row) with name (linked), description, language, and star count. Descriptions are truncated on a word boundary at 100 characters.
+- **Changing the featured projects**: edit the `REPOS` array at the top of `scripts/update-pinned-repos.sh`. The list is ordered and drives display order. GitHub's own "pinned repositories" setting is no longer used, so re-pinning in the GitHub UI has no effect here. Repos the token cannot read (private, renamed, deleted) are skipped with a warning rather than failing the run.
 - **Workflow**: `.github/workflows/update-readme.yml` runs daily at 06:00 UTC and on manual dispatch. It only commits if the README content actually changed.
 - **Token**: The workflow uses the default `GITHUB_TOKEN` provided by GitHub Actions.
