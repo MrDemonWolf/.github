@@ -2,7 +2,11 @@
 
 ## About
 
-I've been building for the web for over 11 years — from dynamic web applications to polished WordPress sites, S.E.O. strategies, and everything in between. I turn ideas into reliable, well-crafted digital experiences.
+I'm Nathanial Henniges, a Wisconsin web and application developer based in Beloit. I've been building for the web since 2012: WordPress sites in Divi, TypeScript web apps on Cloudflare, technical SEO, and open source tools. MrDemonWolf, Inc. is my own studio, a registered Wisconsin S-Corp, and my client work ships under it.
+
+I build in public, and I'm a proud furry. The blue wolf is me, not a mascot bolted onto a studio.
+
+Building a better web, one howl at a time.
 
 ## Key Repositories
 
