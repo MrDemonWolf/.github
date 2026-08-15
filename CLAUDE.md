@@ -9,15 +9,17 @@ This is the **GitHub Organization `.github` repository** for [MrDemonWolf, Inc.]
 ## Structure
 
 - `profile/README.md` — Organization profile README displayed at https://github.com/MrDemonWolf
-- `logo_text.png` — Organization logo (647x100px) referenced in the profile README
+- `logo_text.png` — Organization logo, light-mode variant with navy wordmark (1294x281px)
+- `logo_text_dark.png` — Organization logo, dark-mode variant with white wordmark (1294x281px)
 - `scripts/update-pinned-repos.sh` — Shell script that queries GitHub GraphQL API for a curated list of repos and updates the README
 - `.github/workflows/update-readme.yml` — GitHub Actions workflow that runs the script daily at 06:00 UTC
 
 ## Key Details
 
-- There are no build, lint, or test commands — this repo contains Markdown, a PNG asset, and automation scripts.
+- There are no build, lint, or test commands — this repo contains Markdown, PNG assets, and automation scripts.
 - The profile README is the primary artifact; changes here directly affect the public-facing GitHub organization page.
-- The logo is referenced in the README as `/logo_text.png` (root-relative path, resolved by GitHub).
+- The logo is a `<picture>` element at the top of the README with a `prefers-color-scheme` source for each variant, plus `logo_text.png` as the `<img>` fallback. Paths are root-relative (`/logo_text.png`), resolved by GitHub.
+- Both logo variants are rendered from the brand SVGs in the website repo (`apps/stack/public/logo-text-brand.svg` for light, `logo-text-white.svg` for dark). Regenerate both together so the framing stays identical when the theme switches.
 
 ## Auto-Update Mechanism
 
