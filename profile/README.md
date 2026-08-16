@@ -19,36 +19,36 @@ Building a better web, one howl at a time.
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/fluffboost">fluffboost</a></h3>
-<p>A sharded Discord bot that delivers scheduled motivational quotes to your server. Built with…</p>
+<p>Sharded Discord bot for scheduled motivational quotes, built with TypeScript, discord.js, BullMQ…</p>
 <p><code>TypeScript</code> ⭐ 4</p>
 </td>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/wolfwave">wolfwave</a></h3>
-<p>A native macOS menu bar app that bridges Apple Music with Twitch, Discord, and stream overlays…</p>
+<p>Native macOS menu bar app connecting Apple Music to Twitch chat, Discord Rich Presence, and OBS…</p>
 <p><code>Swift</code> ⭐ 7</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/conpaws">conpaws</a></h3>
-<p>Your convention compass. ConPaws is a one-stop navigator for furry event attendees, featuring live…</p>
+<p>Local-first furry convention companion with offline schedules, meetup reminders, friend sharing…</p>
 <p><code>TypeScript</code> ⭐ 0</p>
 </td>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/linkden">linkden</a></h3>
-<p>Self-hosted link-in-bio platform built on Cloudflare. A modern, whitelabel-friendly Linktree…</p>
+<p>Self-hosted link-in-bio platform for Cloudflare Workers and D1, with visual blocks, analytics…</p>
 <p><code>TypeScript</code> ⭐ 6</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/howlbox">howlbox</a></h3>
-<p>Themed self-hosted Twitch chat overlay for OBS browser sources. Anonymous chat, native…</p>
+<p>Self-hosted Twitch chat overlay for OBS with native, 7TV, BTTV, and FFZ emotes, built with React…</p>
 <p><code>TypeScript</code> ⭐ 1</p>
 </td>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/dirework">dirework</a></h3>
-<p>Self-hosted Pomodoro timer, viewer task list, and Twitch chat bot with OBS overlays — for…</p>
+<p>Self-hosted Pomodoro timer, viewer task list, Twitch chat bot, and OBS overlays for co-working and…</p>
 <p><code>TypeScript</code> ⭐ 2</p>
 </td>
 </tr>
