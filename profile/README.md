@@ -37,7 +37,7 @@ Building a better web, one howl at a time.
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/linkden">linkden</a></h3>
 <p>Self-hosted link-in-bio platform for Cloudflare Workers and D1, with visual blocks, analytics…</p>
-<p><code>TypeScript</code> ⭐ 6</p>
+<p><code>TypeScript</code> ⭐ 7</p>
 </td>
 </tr>
 <tr>
