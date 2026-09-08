@@ -25,7 +25,7 @@ Building a better web, one howl at a time.
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/wolfwave">wolfwave</a></h3>
 <p>Native macOS menu bar app connecting Apple Music to Twitch chat, Discord Rich Presence, and OBS…</p>
-<p><code>Swift</code> ⭐ 7</p>
+<p><code>Swift</code> ⭐ 8</p>
 </td>
 </tr>
 <tr>
