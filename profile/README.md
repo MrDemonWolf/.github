@@ -43,7 +43,7 @@ Building a better web, one howl at a time.
 <tr>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/howlbox">howlbox</a></h3>
-<p>Self-hosted Twitch chat overlay for OBS with native, 7TV, BTTV, and FFZ emotes, built with React…</p>
+<p>Customizable Twitch chat overlay for OBS with anonymous live chat, events, badges, and 7TV, BTTV…</p>
 <p><code>TypeScript</code> ⭐ 1</p>
 </td>
 <td width="50%">
