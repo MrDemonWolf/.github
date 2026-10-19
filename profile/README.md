@@ -4,7 +4,7 @@
   <img alt="MrDemonWolf, Inc." src="/logo_text.png" width="520">
 </picture>
 
-## About
+## About ![GitHub Octicon: organization](/icons/organization.svg)
 
 MrDemonWolf, Inc. is my Wisconsin-based studio for web development, software, and hosting. I work with small businesses on WordPress sites and web apps, and build open-source tools for creators and communities.
 
@@ -12,7 +12,7 @@ I'm Nathanial Henniges, a web and application developer. The blue wolf is my per
 
 Practical software. Thoughtful web work. Built in public.
 
-## Key Repositories
+## Key Repositories ![GitHub Octicon: repository](/icons/repo.svg)
 
 <!-- PINNED-REPOS:START -->
 <table>
@@ -55,7 +55,7 @@ Practical software. Thoughtful web work. Built in public.
 </table>
 <!-- PINNED-REPOS:END -->
 
-## Get in Touch
+## Get in Touch ![GitHub Actions workflow](https://github.com/MrDemonWolf/.github/actions/workflows/update-readme.yml/badge.svg)
 
 [Website](https://mrdemonwolf.com) ·
 [Email](mailto:hello@mrdemonwolf.com?subject=Message%20from%20GitHub) ·

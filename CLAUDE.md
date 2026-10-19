@@ -8,7 +8,9 @@ This is the **GitHub Organization `.github` repository** for [MrDemonWolf, Inc.]
 
 ## Structure
 
+- `README.md` — purpose and maintenance notes for this configuration repo
 - `profile/README.md` — Organization profile README displayed at https://github.com/MrDemonWolf
+- `icons/` — small, recolored GitHub Primer Octicons used in the profile and repo README
 - `logo_text.png` — Organization logo, light-mode variant with navy wordmark (1294x281px)
 - `logo_text_dark.png` — Organization logo, dark-mode variant with white wordmark (1294x281px)
 - `scripts/update-pinned-repos.sh` — Shell script that queries GitHub GraphQL API for a curated list of repos and updates the README
