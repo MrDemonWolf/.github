@@ -6,7 +6,7 @@
 
 ## About ![GitHub Octicon: organization](/icons/organization.svg)
 
-MrDemonWolf, Inc. is my Wisconsin-based studio for web development, software, and hosting. I work with small businesses on WordPress sites and web apps, and build open-source tools for creators and communities.
+I’m President of MrDemonWolf, Inc., my Wisconsin-based studio for web development, software, and hosting. I work with small businesses on WordPress sites and web apps, and build open-source tools for creators and communities.
 
 I'm Nathanial Henniges, a web and application developer. The blue wolf is my personal brand and the community behind these projects.
 
