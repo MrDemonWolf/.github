@@ -24,7 +24,7 @@ Practical software. Thoughtful web work. Built in public.
 </td>
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/wolfwave">wolfwave</a></h3>
-<p>Native macOS menu bar app connecting Apple Music to Twitch chat, Discord Rich Presence, and OBS…</p>
+<p>Native macOS app for Apple Music song requests, Twitch chat, Discord Rich Presence, OBS overlays…</p>
 <p><code>Swift</code> ⭐ 9</p>
 </td>
 </tr>
