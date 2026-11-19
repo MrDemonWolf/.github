@@ -49,7 +49,7 @@ Practical software. Thoughtful web work. Built in public.
 <td width="50%">
 <h3><a href="https://github.com/MrDemonWolf/dirework">dirework</a></h3>
 <p>Self-hosted Pomodoro timer, viewer task list, Twitch chat bot, and OBS overlays for co-working and…</p>
-<p><code>TypeScript</code> ⭐ 3</p>
+<p><code>TypeScript</code> ⭐ 4</p>
 </td>
 </tr>
 </table>
